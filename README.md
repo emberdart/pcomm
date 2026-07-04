@@ -1,6 +1,6 @@
 # pComm: Portable Communicator
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/danwdart/pcomm.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/emberdart/pcomm.svg)](https://greenkeeper.io/)
 
 ## What's it for?
 
